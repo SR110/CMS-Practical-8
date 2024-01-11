@@ -1,5 +1,5 @@
 # CMS-Practical-8
-# Shreya Ranjan, 14229480
+## Shreya Ranjan, 14229480
 
 # Scientific Method Research
 The Scientific Method that I am using is the Learning Pyramid, which consists of 7 components. They are listed below in ascending order of retention of information and have been explained as well.
