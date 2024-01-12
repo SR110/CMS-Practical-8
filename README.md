@@ -40,26 +40,17 @@ If I listen in class, I am using the Lecture part of the Learning Pyramid and am
 If I pay attention in class, watch the YouTube videos that the professor shows in class, and discuss my learnings with my peers, I can guarantee a good grade in the subject (Distinction and above). 
 
 ### Perform a test: 
-Since the start of this module, I had paid full attention in class, meticulously noted down the YouTube video links and also discussed what I learnt with my peers so that I can better understand the softwares the professor taught about in greater detail. But, let's check whether this helps in getting a good grade for assessments. 
+At the start of the module, I was only using the "Lecture" part of the Learning Pyramid method. 
+But, from Week 3 or so, I started paying full attention in class, meticulously noting down the YouTube video links and also discussing what I learnt with my peers. This enabled me to better understand the softwares the professor taught about in greater detail which in turn helped in me getting good grades for the Practicals and Other Assessments.
 
 ## Analyze the results and draw a conclusion
 ### Analysis of Results:
-
+The results were high marks in the CMS Assessments because I had made use of 3 different levels out of the 7 levels of the Learning Pyramid.
 
 ### Conclusion:
+What I can conclude from this scientific research is that by using the following 3 methods of the Learning Pyramid together, one can learn concepts effectively. Lecture is important to get an overview of the topic, Audio-visual is essential to obtain a deeper understanding or retention because of the use of images, slideshows, flipcharts etc. and lastly Discussion enables us to critically think about the topic and understand each others' opinions.
 
 
-Lecture
-Audio-visual
-Discussion
-
-used these aspects of the seven-pronged approach.
-Seven pronged??
-
-At the same time, the noting down of the videos gave me the liberty to rewind, hence understanding better and thus, showing better work for the assessment requirements of the subject.
-
-## Analyze the results and draw a conclusion
-## Share the conclusion or decide what question to ask next: Document the results of your experiment
 
 
 
