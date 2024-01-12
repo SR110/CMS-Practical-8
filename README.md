@@ -50,10 +50,22 @@ The results were high marks in the CMS Assessments because I had made use of 3 d
 ### Conclusion:
 What I can conclude from this scientific research is that by using the following 3 methods of the Learning Pyramid together, one can learn concepts effectively. Lecture is important to get an overview of the topic, Audio-visual is essential to obtain a deeper understanding or retention because of the use of images, slideshows, flipcharts etc. and lastly Discussion enables us to critically think about the topic and understand each others' opinions.
 
+# Learning Activities & Resources
+This week we mainly worked on the group project which was to rebuild the JCU Open House Website to attract more visitors to the site and thus increase the student intake as well. We worked in teams to develop our own theme, used various different software like XAMPP and Vagrant and also worked on the Presentation and the Group Report. Many things were very new to us all such as Varying Vagrant Vagrants (VVV) and PHP Language. Although it took us some time to get accustomed to the new software, we watched a couple of YouTube videos and used online tutorials to guide us through. 
 
+# URLs
+- https://www.youtube.com/watch?v=-JwPJga5sQ0 (How to Create a Custom WordPress Theme 2022)
+- https://seahawkmedia.com/wordpress/wordpress-development-workflow/ (WordPress Development Workflow: Ultimate Guide)
+- https://www.youtube.com/watch?v=w4yQ_4Btu_g&t=2s&ab_channel=PixemWeb (Varying Vagrant Vagrants VVV for WordPress Development)
+- https://www.youtube.com/watch?v=rOjuLJ8L0Zk&ab_channel=WatchandLearn (Modern WordPress Development Workflow – Part #1 – Local Setup)
+- https://www.youtube.com/watch?v=J1-lsAoUnUY&ab_channel=WatchandLearn (Modern WordPress Development Workflow – Part #2 – Local Setup)
+- https://www.youtube.com/watch?v=BWf1Aly9Dkk&ab_channel=WatchandLearn (Modern WordPress Development Workflow – Part #3 – Local Setup)
 
+# Estimated Hours 
+I spent around 3 days on this week's practical - Individual and Group combined.
 
+# Content Insights 
+We faced a lot of problem with installing vagrant but after much trial and error on terminal, we managed to set it up for the group project. It was fun learning through the YouTube videos and something I was glad about was that we also had the liberty to work with our team members, making things slightly easier to understand. Overall, we learnt a lot in the PHP Language. Since we did the entire project through PHP, we improved the way we wrote our code structures, naming, the code logic and also our debugging skills.
 
-
-
-
+# Career/Employability/Learning Insights
+This week's tasks prepared us a lot for work as there was a lot to be done in a very short period of time. We learnt a lot of new concepts especially new software for the completion of the practical this week. There was a huge time crunch as is the case in most jobs in the IT industry but we somehow pulled through by relying on each other's strengths and picking up new things quickly. I feel skills such as working well under pressure, collaborating within a team and perseverence are crucial skills that are much sought after in the IT industry. Overall, this subject has taught me a lot of valuable skillsets that can be directly transferred to the future IT role that I aspire to do.
