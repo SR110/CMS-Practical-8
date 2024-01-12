@@ -4,6 +4,10 @@
 # Scientific Method Research
 The Scientific Method that I am using is the Learning Pyramid, which consists of 7 components. They are listed below in ascending order of retention of information and have been explained as well.
 
+## Make an observation or ask a question
+To find out whether the Learning Pyramid is effective as a learning technique, to learn CMS.
+
+## Gather background information
 ## Lecture (5% Retention) – 
 Although the retention is the least, this is the most common way to teach students. This medium is also the most passive as there is no active participation from the students.
 
@@ -24,3 +28,41 @@ Another term for this would be "hands on" experience. Because it enables one to 
 
 ## Teach Others (90% Retention) – 
 According to The Learning Pyramid, this is the approach that promotes learning retention the most. An individual must have a solid grasp of the ideas and specifics around a subject and be able to recall it with ease in order to impart information to others. Additionally, it is believed that interacting with students and answering their inquiries strengthens their capacity for critical thought as well as their memory of the material.
+
+
+## Create a hypothesis
+The Learning Pyramid method is highly effective when one wants to learn something new and retain the information for a long time.
+
+## Create a prediction and perform a test
+If I listen in class, I am using the Lecture part of the Learning Pyramid and am only able to remember 5% of the information shared by the professor taking the lesson. 
+
+### Prediction: 
+If I pay attention in class, watch the YouTube videos that the professor shows in class, and discuss my learnings with my peers, I can guarantee a good grade in the subject (Distinction and above). 
+
+### Perform a test: 
+Since the start of this module, I had paid full attention in class, meticulously noted down the YouTube video links and also discussed what I learnt with my peers so that I can better understand the softwares the professor taught about in greater detail. But, let's check whether this helps in getting a good grade for assessments. 
+
+## Analyze the results and draw a conclusion
+### Analysis of Results:
+
+
+### Conclusion:
+
+
+Lecture
+Audio-visual
+Discussion
+
+used these aspects of the seven-pronged approach.
+Seven pronged??
+
+At the same time, the noting down of the videos gave me the liberty to rewind, hence understanding better and thus, showing better work for the assessment requirements of the subject.
+
+## Analyze the results and draw a conclusion
+## Share the conclusion or decide what question to ask next: Document the results of your experiment
+
+
+
+
+
+
